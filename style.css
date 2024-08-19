@@ -1,0 +1,23 @@
+.banner{
+    background-color: rgba(229, 84, 115, 0.1);
+    display: flex;
+}
+.banner-item{
+    padding: 50px 50px;
+}
+.banner-img{
+    max-width: 400px;
+   
+}
+
+
+
+
+.banner-1-img{
+    max-width: 600px;
+    display: flex;
+}
+.banner-1-item{
+    text-align: center;
+    margin-top: 90px;
+}
